@@ -1,0 +1,53 @@
+#sfondo{
+    background-image: url(.././img/treno.jpg);
+    background-size: cover;
+}
+
+#intestazione,
+#età,
+#km{
+    border-radius: 10px;
+    border: none;
+}
+
+#ticket{
+    height: 30%;
+    display: none;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.risultati{
+    width: 300px;
+    height: 30px;
+    background-color: rgba(81, 80, 80, 0.2);
+    margin-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.sfondo-ticket{
+    background-image: url(https://www.elettri-fer.it/site/assets/files/1078/italferr_logo-1.370x270n.jpg);
+    background-size: contain;
+    border-radius: 10px;
+    
+}
+
+.box{
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    /* border: 1px solid black; */
+}
+
+
+button{
+    border-radius: 10px;
+    background-color: rgb(63, 106, 249);
+    border: rgb(63, 106, 249);
+    color: white;
+}
+
+input{
+    width: 40%;
+}
